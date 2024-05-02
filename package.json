@@ -1,0 +1,12 @@
+{
+  "name": "web3-plugin-lw3-lesson",
+  "version": "1.0.0",
+  "description": "LearnWeb3 Mini Lesson: web3.js v4⚡️: Build your first web3 plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
